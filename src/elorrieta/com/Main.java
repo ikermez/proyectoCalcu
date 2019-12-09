@@ -15,6 +15,7 @@ public class Main {
 		int resultado = num + num2;
 		
 		System.out.println("Resultado: "+ resultado);
+		int nuevo = 0;
 	}
 
 }
